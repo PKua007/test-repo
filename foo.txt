@@ -4,4 +4,5 @@ feature 3
 feature 4
 feature 5 fix
 feature 6 typo fix
-feature 7 
+feature 7
+feature 8 
