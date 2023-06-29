@@ -2,5 +2,5 @@ feature1 fix
 feature2
 feature 3
 feature 4
-feature 5
+feature 5 fix
 feature 6
